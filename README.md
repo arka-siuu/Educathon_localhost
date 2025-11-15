@@ -82,23 +82,6 @@ https://shiksha-saathi.lovable.app/
 - Tailwind CSS  
 - HTML / CSS
 
----
-
-## Clickable Logo for Demo Video
-
-```md
-[![Shiksha Saathi Logo](./assets/logo.png)](https://drive.google.com/file/d/1uQ4zWejZT80Lgm40gbMZBXeNAK4V6l7v/view?usp=drivesdk)
-```
-
-Or with a larger visual:
-
-```md
-<a href="https://shiksha-saathi.lovable.app/demo-video-url" target="_blank" rel="noopener noreferrer">
-  <img src="./assets/logo.png" alt="Shiksha Saathi logo" width="420" />
-</a>
-```
-
-
 
 ---
 
