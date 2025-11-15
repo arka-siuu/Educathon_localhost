@@ -37,11 +37,16 @@ We replace one-way content libraries with an active, emotionally intelligent lea
   </a>
 </p>
 
+<p align="center">
+  <strong>🔗 Click the image to watch the demo video</strong>
+</p>
+
+
 
 ## Deployed link
 https://shiksha-saathi.lovable.app/
 
-- **Animate Labs Workspace:**  
+**Animate Labs Workspace:**  
   https://opal.google/?flow=drive:/1Yuc1oHYHeXnAFctgZgJmVMgCKzWncjKZ&shared&mode=app
 
 ---
