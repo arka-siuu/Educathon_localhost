@@ -31,6 +31,13 @@ We replace one-way content libraries with an active, emotionally intelligent lea
 
 ---
 
+<p align="center">
+  <a href="https://drive.google.com/file/d/1uQ4zWejZT80Lgm40gbMZBXeNAK4V6l7v/view?usp=drivesdk" target="_blank">
+    <img src="https://github.com/arka-siuu/Educathon_localhost/blob/main/assets/Screenshot%202025-11-15%20151340.png" width="420" />
+  </a>
+</p>
+
+
 ## Deployed link
 https://shiksha-saathi.lovable.app/
 
