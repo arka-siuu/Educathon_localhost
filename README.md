@@ -16,11 +16,16 @@
 The EdTech industry treats students like data. We treat them like humans.  
 **Localhost** built *Shiksha Saathi* — a cognitive learning partner with three synced capabilities:
 
-1. **Create-to-Learn Engine** — turn hand-drawn diagrams into broadcast-quality animations in real time.  
-2. **Cognitive Feedback Loop** — a multimodal, empathetic AI mentor that senses boredom, anxiety, confusion and responds supportively.  
-3. **24/7 Audio Mentor** — multilingual, AI-generated doubt-clearance audio you can use offline or while away from the screen.
-4. **Realtime drawing to animate** -
-5. "Thakumar Jhuli AI AVATAR
+- **Create-to-Learn Engine** — turn hand-drawn diagrams into broadcast-quality animations in real time.
+
+- **Cognitive Feedback Loop** — a multimodal, empathetic AI mentor that senses boredom, anxiety, confusion and responds supportively.
+
+- **24/7 Audio Mentor** — multilingual, AI-generated doubt-clearance audio you can use offline or while away from the screen.
+
+- **Realtime Drawing-to-Animation** — instantly converts your live sketches into dynamic, interactive visualizations as you draw.
+
+- **Thakumar Jhuli AI Avatar** — an immersive Bengali folklore storyteller that narrates lessons in the warm, culturally rooted voice and style of *Thakumar Jhuli*, making learning emotionally rich and locally relatable.
+
 
 We replace one-way content libraries with an active, emotionally intelligent learning partner.
 
@@ -28,6 +33,9 @@ We replace one-way content libraries with an active, emotionally intelligent lea
 
 ## Deployed link
 https://shiksha-saathi.lovable.app/
+
+- **Animate Labs Workspace:**  
+  https://opal.google/?flow=drive:/1Yuc1oHYHeXnAFctgZgJmVMgCKzWncjKZ&shared&mode=app
 
 ---
 
@@ -67,7 +75,7 @@ https://shiksha-saathi.lovable.app/
 ## Clickable Logo for Demo Video
 
 ```md
-[![Shiksha Saathi Logo](./assets/logo.png)](https://shiksha-saathi.lovable.app/demo-video-url)
+[![Shiksha Saathi Logo](./assets/logo.png)](https://drive.google.com/file/d/1uQ4zWejZT80Lgm40gbMZBXeNAK4V6l7v/view?usp=drivesdk)
 ```
 
 Or with a larger visual:
