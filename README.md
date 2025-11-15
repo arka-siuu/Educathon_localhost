@@ -1,7 +1,14 @@
 # EDUC-A-THON — Localhost  
 > **Shiksha Saathi** — A human-aware EdTech platform that turns learners into creators, mentors their cognition, and provides 24/7 multilingual audio help.
 
-[🔗 Live Demo](https://shiksha-saathi.lovable.app/)
+## 🚀 Project Links
+
+- **Live Demo:**  
+  https://shiksha-saathi.lovable.app/
+
+- **Animate Labs Workspace:**  
+  https://opal.google/?flow=drive:/1Yuc1oHYHeXnAFctgZgJmVMgCKzWncjKZ&shared&mode=app
+
 
 ---
 
